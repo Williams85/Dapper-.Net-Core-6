@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oAazPM8VazIPel1ZtAWh+fRYYvN4BDxSCMEz/l75pnk=",
+  "Source": "Dapper.NetCore6.WebApi",
+  "BasePath": "_content/Dapper.NetCore6.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
